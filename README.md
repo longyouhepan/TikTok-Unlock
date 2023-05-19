@@ -273,3 +273,6 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 ```
 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/DouYin.list
 ```
+
+###安装iTunes提示不能读取文件itunes library itl怎么办？
+* [教程](https://www.xitongzhijia.net/xtjc/20210316/206235.html)
